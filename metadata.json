@@ -1,0 +1,6 @@
+{
+  "name": "TEMPLE RUNES - 2D Adventure Game",
+  "description": "An ancient exploration 2D platformer adventure game featuring campaign levels, endless survival, 2-player co-op, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
